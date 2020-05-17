@@ -67,7 +67,7 @@ public class SmartReplyBot extends TelegramLongPollingBot {
     }
     @Override
     public String getBotToken() {
-        return "1072704004:AAFTiQiqaIMQ-5-tzJIoYr73VcbjLLP3V3g"; 
+        return "Bot Token"; 
     }
 
 
